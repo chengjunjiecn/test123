@@ -1,0 +1,68 @@
+[
+  {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近1天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),1) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+  {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近2天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),2) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近3天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),3) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近4天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),4) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近5天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),5) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近6天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),6) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近7天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),7) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近8天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),8) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近9天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),9) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近10天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),10) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  },
+   {
+    "instruction": "按照下面输入，生成 SQL 查询语句。",
+    "input": "查询近11天的订单量。",
+    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),11) AS STRING);",
+    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+  } 
+]

@@ -153,6 +153,6 @@
     "instruction": "查询近31天的订单量，生成 SQL 查询语句。",
     "input": "",
     "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),31) AS STRING);" 
-  },
+  }
  
 ]

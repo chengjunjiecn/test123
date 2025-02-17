@@ -1,68 +1,158 @@
 [
   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近1天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),1) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+    "instruction": "查询近1天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),1) AS STRING);" 
   },
-  {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近2天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),2) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近2天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),2) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近3天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),3) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近3天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),3) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近4天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),4) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近4天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),4) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近5天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),5) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近5天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),5) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近6天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),6) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近6天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),6) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近7天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),7) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近7天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),7) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近8天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),8) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近8天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),8) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近9天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),9) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近9天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),9) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近10天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),10) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
+ {
+    "instruction": "查询近10天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),10) AS STRING);" 
   },
-   {
-    "instruction": "按照下面输入，生成 SQL 查询语句。",
-    "input": "查询近11天的订单量。",
-    "output": "SELECT count(*) FROM cams_data.dwd_user_order_di t WHERE t.day = '{dt}' AND SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),11) AS STRING);",
-    "system": "你是一个数据分析师，擅长编写 SQL 查询语句。cams_data.dwd_user_order_di 表有 time_end 和 time_start 字段，按 day 分区，day 分区包含累积到 {dt} 的所有数据。"
-  } 
+ {
+    "instruction": "查询近11天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),11) AS STRING);" 
+  },
+ {
+    "instruction": "查询近12天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),12) AS STRING);" 
+  },
+ {
+    "instruction": "查询近13天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),13) AS STRING);" 
+  },
+ {
+    "instruction": "查询近14天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),14) AS STRING);" 
+  },
+ {
+    "instruction": "查询近15天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),15) AS STRING);" 
+  },
+ {
+    "instruction": "查询近16天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),16) AS STRING);" 
+  },
+ {
+    "instruction": "查询近17天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),17) AS STRING);" 
+  },
+ {
+    "instruction": "查询近18天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),18) AS STRING);" 
+  },
+ {
+    "instruction": "查询近19天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),19) AS STRING);" 
+  },
+ {
+    "instruction": "查询近20天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),20) AS STRING);" 
+  },
+ {
+    "instruction": "查询近21天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),21) AS STRING);" 
+  },
+ {
+    "instruction": "查询近22天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),22) AS STRING);" 
+  },
+ {
+    "instruction": "查询近23天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),23) AS STRING);" 
+  },
+ {
+    "instruction": "查询近24天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),24) AS STRING);" 
+  },
+ {
+    "instruction": "查询近25天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),25) AS STRING);" 
+  },
+ {
+    "instruction": "查询近26天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),26) AS STRING);" 
+  },
+ {
+    "instruction": "查询近27天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),27) AS STRING);" 
+  },
+ {
+    "instruction": "查询近28天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),28) AS STRING);" 
+  },
+ {
+    "instruction": "查询近29天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),29) AS STRING);" 
+  },
+ {
+    "instruction": "查询近30天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),30) AS STRING);" 
+  },
+ {
+    "instruction": "查询近31天的订单量，生成 SQL 查询语句。",
+    "input": "",
+    "output": "SELECT count(*) FROM cams_data_dwd_user_order_di t WHERE SUBSTR(time_end,1,10) >= CAST(DATE_SUB(GETDATE(),31) AS STRING);" 
+  },
+ 
 ]

@@ -12,7 +12,7 @@ google colab
 !llamafactory-cli train examples/train_lora/qwen2_5vl_lora_sft.yaml
 
 3. 测试
-!llamafactory-cli webchat examples/inference/qwen2_5vl_lora_sft.yaml
+!GRADIO_SHARE=1 llamafactory-cli webchat examples/inference/qwen2_5vl.yaml
 
 3.合并lora模型
 !llamafactory-cli export examples/merge_lora/qwen2_5vl_lora_sft.yaml

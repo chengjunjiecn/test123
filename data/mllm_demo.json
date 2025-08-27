@@ -138,5 +138,5450 @@
     "images": [
       "mllm_demo_data/3.jpg"
     ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/001.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/002.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/003.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/004.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/005.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/006.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/007.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/008.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/009.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/010.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/011.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/012.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/013.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/014.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/015.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/016.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/017.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/018.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/019.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/020.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/021.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/022.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/023.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/024.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/025.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/026.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/027.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/028.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/029.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/030.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/031.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/032.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/033.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/034.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/035.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/036.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/037.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/038.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/039.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/040.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/041.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/042.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/043.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/044.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/045.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/046.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/047.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/048.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/049.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/050.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/051.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/052.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/053.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/054.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/055.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/056.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/057.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/058.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/059.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/060.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/061.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/062.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/063.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/064.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/065.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/066.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/067.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/068.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/069.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/070.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/071.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/072.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/073.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/074.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/075.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/076.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/077.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/078.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/079.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/080.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/081.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/082.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/083.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/084.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/085.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/086.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/087.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/088.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/089.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/090.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/091.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/092.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/093.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/094.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/095.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/096.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/097.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/098.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/099.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/100.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/101.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/102.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/103.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/104.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/105.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/106.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/107.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/108.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/109.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/110.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/111.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/112.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/113.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/114.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/115.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/116.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/117.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/118.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/119.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/120.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/121.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/122.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/123.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/124.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/125.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/126.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/127.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/128.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/129.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/130.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/131.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/132.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/133.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/134.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/135.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/136.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/137.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/138.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/139.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/140.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/141.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/142.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/143.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/144.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/145.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/146.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/147.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/148.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/149.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/150.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/151.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/152.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/153.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/154.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/155.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/156.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/157.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/158.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/159.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/160.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/161.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/162.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/163.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/164.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/165.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/166.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/167.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/168.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/169.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/170.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/171.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/172.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/173.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/174.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/175.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/176.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/177.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/178.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/179.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/180.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/181.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/182.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/183.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/184.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/185.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/186.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/187.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/188.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/189.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/190.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/191.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/192.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/193.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/194.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/195.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/196.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/197.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/198.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/199.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/200.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/201.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/202.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/203.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/204.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/205.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/206.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/207.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/208.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/209.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/210.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/211.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/212.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/213.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/214.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/215.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/216.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/217.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/218.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/219.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/220.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/221.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/222.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/223.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/224.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/225.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/226.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/227.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/228.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/229.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/230.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/231.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/232.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/233.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/234.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/235.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/236.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/237.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/238.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/239.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/240.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/241.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/242.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/243.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/244.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/245.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/246.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/247.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/248.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/249.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/250.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/251.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/252.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/253.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/254.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/255.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/256.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/257.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/258.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/259.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/260.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/261.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/262.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/263.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/264.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/265.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/266.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/267.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/268.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/269.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/270.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/271.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/272.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/273.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/274.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/275.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/276.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/277.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/278.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/279.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/280.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/281.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/282.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/283.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/284.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/285.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/286.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/287.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/288.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/289.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/290.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/291.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/292.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/293.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/294.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/295.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/296.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/297.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/298.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/299.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/300.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/301.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/302.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/303.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/304.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/305.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/306.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/307.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/308.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/309.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/310.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/311.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/312.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/313.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/314.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/315.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/316.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/317.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/318.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/319.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/320.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/321.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/322.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/323.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/324.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/325.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/326.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/327.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/328.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/329.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/330.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/331.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/332.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/333.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/334.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/335.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/336.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/337.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/338.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/339.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/340.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/341.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/342.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/343.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/344.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/345.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/346.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/347.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/348.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/349.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/350.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/351.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/352.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/353.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/354.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/355.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/356.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/357.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/358.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/359.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/360.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/361.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/362.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在睡觉。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/363.jpg"
+    ]
   }
 ]

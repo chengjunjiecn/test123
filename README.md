@@ -6,7 +6,7 @@ google colab
 %cd test123
 
 !pip install -e ".[torch,metrics]" --no-build-isolation
-
+!pip install swanlab
 
 2.微调qwen-2.5-vl3b模型
 !llamafactory-cli train examples/train_lora/qwen2_5vl_lora_sft.yaml

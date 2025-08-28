@@ -16,3 +16,8 @@ google colab
 
 3.合并lora模型
 !llamafactory-cli export examples/merge_lora/qwen2_5vl_lora_sft.yaml
+
+4.下载部署工具，转换
+!git clone https://github.com/ggml-org/llama.cpp.git
+%cd llama.cpp
+!python convert_hf_to_gguf.py ../output/qwen2_5vl_lora_sft/ --outtype f16 --outfile ./model-f16.gguf

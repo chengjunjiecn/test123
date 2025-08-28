@@ -16,3 +16,8 @@ quantized_model = model.quantize(bit=4, use_awq=True)  # 4-bit AWQ
 
 # 保存为 GGUF
 quantized_model.save_pretrained(out_dir, save_format="gguf")
+
+
+# url = "https://drive.google.com/uc?id=14zbm4468eNwWUWcYfmT27ZuoYNF3pQYM&export=download"
+# output = "model.gguf"
+# gdown.download(url, output, quiet=False)

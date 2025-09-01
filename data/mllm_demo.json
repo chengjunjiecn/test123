@@ -5238,5 +5238,5555 @@
     "images": [
       "mllm_demo_data/340.jpg"
     ]
-  } 
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight001.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight002.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight003.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight004.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight005.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight006.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight007.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight008.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight009.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight010.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight011.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight012.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight013.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight014.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight015.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight016.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight017.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight018.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight019.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight020.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight021.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight022.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight023.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight024.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight025.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight026.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight027.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight028.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight029.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight030.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight031.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight032.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight033.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight034.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight035.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight036.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight037.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight038.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight039.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight040.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight041.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight042.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight043.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight044.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight045.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight046.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight047.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight048.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight049.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight050.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight051.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight052.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight053.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight054.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight055.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight056.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight057.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight058.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight059.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight060.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight061.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight062.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight063.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight064.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight065.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight066.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight067.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight068.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight069.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight070.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight071.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight072.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight073.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight074.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight075.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight076.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight077.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight078.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight079.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight080.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight081.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight082.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight083.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight084.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight085.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight086.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight087.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight088.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight089.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight090.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight091.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight092.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight093.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight094.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight095.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight096.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight097.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight098.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight099.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight100.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight101.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight102.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight103.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight104.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight105.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight106.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight107.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight108.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight109.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight110.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight111.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight112.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight113.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight114.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight115.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight116.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight117.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight118.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight119.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight120.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight121.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight122.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight123.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight124.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight125.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight126.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight127.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight128.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight129.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight130.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight131.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight132.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight133.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight134.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight135.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight136.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight137.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight138.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight139.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight140.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight141.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight142.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight143.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight144.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight145.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight146.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight147.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight148.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight149.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight150.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight151.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight152.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight153.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight154.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight155.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight156.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight157.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight158.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight159.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight160.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight161.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight162.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight163.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight164.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight165.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight166.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight167.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight168.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight169.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight170.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight171.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight172.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight173.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight174.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight175.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight176.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight177.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight178.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight179.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight180.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight181.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight182.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight183.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight184.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight185.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight186.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight187.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight188.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight189.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight190.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight191.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight192.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight193.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight194.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight195.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight196.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight197.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight198.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight199.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight200.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight201.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight202.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight203.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight204.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight205.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight206.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight207.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight208.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight209.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight210.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight211.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight212.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight213.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight214.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight215.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight216.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight217.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight218.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight219.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight220.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight221.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight222.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight223.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight224.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight225.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight226.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight227.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight228.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight229.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight230.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight231.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight232.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight233.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight234.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight235.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight236.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight237.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight238.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight239.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight240.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight241.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight242.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight243.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight244.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight245.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight246.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight247.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight248.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight249.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight250.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight251.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight252.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight253.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight254.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight255.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight256.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight257.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight258.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight259.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight260.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight261.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight262.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight263.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight264.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight265.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight266.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight267.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight268.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight269.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight270.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight271.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight272.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight273.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight274.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight275.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight276.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight277.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight278.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight279.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight280.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight281.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight282.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight283.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight284.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight285.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight286.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight287.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight288.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight289.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight290.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight291.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight292.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight293.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight294.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight295.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight296.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight297.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight298.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight299.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight300.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight301.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight302.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight303.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight304.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight305.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight306.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight307.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight308.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight309.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight310.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight311.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight312.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight313.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight314.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight315.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight316.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight317.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight318.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight319.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight320.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight321.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight322.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight323.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight324.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight325.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight326.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight327.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight328.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight329.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight330.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight331.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight332.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight333.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight334.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight335.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight336.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight337.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight338.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight339.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight340.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight341.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight342.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight343.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight344.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight345.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight346.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight347.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight348.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight349.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight350.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight351.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight352.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight353.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight354.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight355.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight356.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight357.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight358.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight359.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight360.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight361.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight362.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight363.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight364.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight365.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight366.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight367.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight368.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight369.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们在打架。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/fight370.jpg"
+    ]
+  }
 ]

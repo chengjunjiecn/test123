@@ -10788,5 +10788,5555 @@
     "images": [
       "mllm_demo_data/fight370.jpg"
     ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown001.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown002.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown003.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown004.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown005.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown006.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown007.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown008.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown009.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown010.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown011.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown012.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown013.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown014.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown015.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown016.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown017.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown018.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown019.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown020.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown021.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown022.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown023.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown024.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown025.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown026.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown027.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown028.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown029.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown030.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown031.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown032.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown033.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown034.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown035.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown036.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown037.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown038.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown039.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown040.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown041.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown042.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown043.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown044.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown045.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown046.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown047.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown048.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown049.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown050.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown051.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown052.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown053.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown054.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown055.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown056.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown057.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown058.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown059.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown060.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown061.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown062.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown063.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown064.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown065.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown066.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown067.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown068.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown069.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown070.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown071.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown072.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown073.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown074.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown075.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown076.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown077.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown078.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown079.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown080.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown081.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown082.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown083.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown084.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown085.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown086.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown087.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown088.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown089.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown090.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown091.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown092.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown093.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown094.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown095.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown096.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown097.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown098.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown099.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown100.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown101.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown102.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown103.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown104.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown105.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown106.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown107.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown108.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown109.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown110.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown111.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown112.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown113.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown114.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown115.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown116.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown117.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown118.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown119.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown120.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown121.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown122.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown123.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown124.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown125.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown126.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown127.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown128.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown129.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown130.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown131.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown132.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown133.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown134.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown135.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown136.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown137.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown138.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown139.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown140.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown141.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown142.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown143.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown144.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown145.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown146.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown147.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown148.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown149.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown150.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown151.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown152.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown153.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown154.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown155.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown156.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown157.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown158.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown159.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown160.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown161.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown162.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown163.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown164.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown165.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown166.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown167.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown168.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown169.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown170.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown171.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown172.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown173.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown174.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown175.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown176.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown177.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown178.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown179.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown180.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown181.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown182.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown183.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown184.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown185.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown186.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown187.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown188.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown189.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown190.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown191.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown192.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown193.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown194.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown195.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown196.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown197.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown198.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown199.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown200.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown201.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown202.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown203.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown204.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown205.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown206.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown207.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown208.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown209.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown210.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown211.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown212.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown213.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown214.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown215.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown216.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown217.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown218.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown219.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown220.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown221.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown222.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown223.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown224.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown225.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown226.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown227.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown228.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown229.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown230.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown231.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown232.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown233.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown234.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown235.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown236.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown237.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown238.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown239.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown240.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown241.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown242.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown243.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown244.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown245.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown246.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown247.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown248.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown249.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown250.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown251.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown252.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown253.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown254.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown255.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown256.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown257.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown258.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown259.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown260.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown261.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown262.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown263.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown264.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown265.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown266.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown267.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown268.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown269.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown270.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown271.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown272.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown273.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown274.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown275.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown276.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown277.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown278.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown279.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown280.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown281.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown282.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown283.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown284.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown285.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown286.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown287.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown288.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown289.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown290.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown291.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown292.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown293.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown294.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown295.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown296.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown297.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown298.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown299.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown300.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown301.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown302.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown303.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown304.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown305.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown306.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown307.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown308.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown309.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown310.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown311.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown312.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown313.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown314.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown315.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown316.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown317.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown318.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown319.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown320.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown321.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown322.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown323.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown324.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown325.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown326.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown327.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown328.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown329.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown330.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown331.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown332.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown333.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown334.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown335.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown336.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown337.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown338.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown339.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown340.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown341.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown342.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown343.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown344.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown345.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown346.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown347.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown348.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown349.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown350.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown351.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown352.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown353.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown354.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown355.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown356.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown357.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown358.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown359.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown360.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown361.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown362.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown363.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown364.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown365.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown366.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown367.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown368.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown369.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>他们在做什么?",
+        "role": "user"
+      },
+      {
+        "content": "他们摔倒了。",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "mllm_demo_data/falldown370.jpg"
+    ]
   }
 ]

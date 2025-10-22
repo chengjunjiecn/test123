@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        
+        .header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .nav-tabs {
+            display: flex;
+            background-color: #34495e;
+            margin-bottom: 20px;
+        }
+        
+        .tab {
+            padding: 15px 20px;
+            cursor: pointer;
+            color: white;
+            transition: background-color 0.3s;
+        }
+        
+        .tab:hover {
+            background-color: #4a678a;
+        }
+        
+        .tab.active {
+            background-color: #3498db;
+        }
+        
+        .tab-content {
+            display: none;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        input, select, textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        button:hover {
+            background-color: #2980b9;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+        
+        .progress-container {
+            margin: 20px 0;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 30px;
+            background-color: #3498db;
+            width: 0%;
+            transition: width 0.5s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+        
+        .result-filters {
+            margin-bottom: 20px;
+        }
+        
+        .id-mapping-table {
+            width: 100%;
+        }
+        
+        .id-mapping-table th, .id-mapping-table td {
+            padding: 8px;
+        }
+        
+        .action-buttons {
+            margin-top: 10px;
+        }
+        
+        .add-row-btn {
+            background-color: #27ae60;
+            margin-right: 10px;
+        }
+        
+        .remove-row-btn {
+            background-color: #e74c3c;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Invoice Assistant</h1>
+    </div>
+    
+    <div class="container">
+        <div class="nav-tabs">
+            <div class="tab active" onclick="showTab('customer-doc')">Customer Document Parsing</div>
+            <div class="tab" onclick="showTab('sap-doc')">SAP Document Parsing</div>
+            <div class="tab" onclick="showTab('processing')">Data Processing</div>
+            <div class="tab" onclick="showTab('results')">Aggregation Results</div>
+            <div class="tab" onclick="showTab('id-mapping')">ID Mapping Management</div>
+        </div>
+        
+        <!-- Customer Document Parsing Interface -->
+        <div id="customer-doc" class="tab-content active">
+            <h2>Customer Document Parsing</h2>
+            <div class="form-group">
+                <label for="customer-file">Upload Customer Document:</label>
+                <input type="file" id="customer-file" accept=".pdf,.doc,.docx,.xls,.xlsx">
+            </div>
+            
+            <div class="form-group">
+                <label for="supplier">Select Supplier:</label>
+                <select id="supplier">
+                    <option value="">Please Select Supplier</option>
+                    <option value="supplier1">Supplier 1</option>
+                    <option value="supplier2">Supplier 2</option>
+                    <option value="supplier3">Supplier 3</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="customer-period">Select Period:</label>
+                <input type="month" id="customer-period">
+            </div>
+            
+            <button onclick="parseCustomerDoc()">Parse Document</button>
+            
+            <div id="customer-results">
+                <h3>Parsing Results</h3>
+                <table id="customer-data-table">
+                    <thead>
+                        <tr>
+                            <th>Invoice No.</th>
+                            <th>Amount</th>
+                            <th>Date</th>
+                            <th>Supplier</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Parsing results will be displayed here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- SAP Document Parsing Interface -->
+        <div id="sap-doc" class="tab-content">
+            <h2>SAP Document Parsing</h2>
+            <div class="form-group">
+                <label for="sap-file">Upload SAP Document:</label>
+                <input type="file" id="sap-file" accept=".pdf,.doc,.docx,.xls,.xlsx">
+            </div>
+            
+            <div class="form-group">
+                <label for="sap-period">Select Period:</label>
+                <input type="month" id="sap-period">
+            </div>
+            
+            <button onclick="parseSapDoc()">Parse Document</button>
+            
+            <div id="sap-results">
+                <h3>Parsing Results</h3>
+                <table id="sap-data-table">
+                    <thead>
+                        <tr>
+                            <th>SAP ID</th>
+                            <th>Amount</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Parsing results will be displayed here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- Data Processing Interface -->
+        <div id="processing" class="tab-content">
+            <h2>Data Processing</h2>
+            <button onclick="startProcessing()">Start Processing</button>
+            
+            <div class="progress-container">
+                <h3>Processing Progress</h3>
+                <div class="progress-bar">
+                    <div id="progress-fill" class="progress-fill">0%</div>
+                </div>
+            </div>
+            
+            <div id="processing-steps">
+                <h3>Processing Steps</h3>
+                <ul>
+                    <li id="step1">Customer Data Aggregation <span id="step1-status">Pending</span></li>
+                    <li id="step2">SAP Data Aggregation <span id="step2-status">Pending</span></li>
+                    <li id="step3">Data Matching <span id="step3-status">Pending</span></li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- Aggregation Results Interface -->
+        <div id="results" class="tab-content">
+            <h2>Aggregation Results</h2>
+            
+            <div class="result-filters">
+                <div class="form-group">
+                    <label for="result-supplier">Select Supplier:</label>
+                    <select id="result-supplier">
+                        <option value="">All Suppliers</option>
+                        <option value="supplier1">Supplier 1</option>
+                        <option value="supplier2">Supplier 2</option>
+                        <option value="supplier3">Supplier 3</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="result-period">Select Period:</label>
+                    <input type="month" id="result-period">
+                </div>
+                
+                <button onclick="filterResults()">Filter</button>
+            </div>
+            
+            <table id="aggregation-results">
+                <thead>
+                    <tr>
+                        <th>Supplier</th>
+                        <th>Period</th>
+                        <th>Customer Invoices</th>
+                        <th>SAP Records</th>
+                        <th>Match Rate</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Aggregation results will be displayed here -->
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- ID Mapping Management Interface -->
+        <div id="id-mapping" class="tab-content">
+            <h2>ID Mapping Management</h2>
+            <p>Manually maintain the mapping relationship between SAP IDs and customer document IDs here</p>
+            
+            <table class="id-mapping-table">
+                <thead>
+                    <tr>
+                        <th>SAP ID</th>
+                        <th>Customer Document ID</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="mapping-rows">
+                    <tr>
+                        <td><input type="text" placeholder="Enter SAP ID"></td>
+                        <td><input type="text" placeholder="Enter Customer Document ID"></td>
+                        <td>
+                            <button class="add-row-btn" onclick="addMappingRow()">+</button>
+                            <button class="remove-row-btn" onclick="removeMappingRow(this)">-</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <div class="action-buttons">
+                <button onclick="saveMappings()">Save Mapping</button>
+                <button onclick="clearMappings()">Clear</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Tab switching functionality
+        function showTab(tabId) {
+            // Hide all tab contents
+            const tabContents = document.querySelectorAll('.tab-content');
+            tabContents.forEach(content => content.classList.remove('active'));
+            
+            // Remove active status from all tabs
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => tab.classList.remove('active'));
+            
+            // Show selected tab content
+            document.getElementById(tabId).classList.add('active');
+            
+            // Activate selected tab
+            event.target.classList.add('active');
+        }
+        
+        // Parse customer document
+        function parseCustomerDoc() {
+            const fileInput = document.getElementById('customer-file');
+            const supplier = document.getElementById('supplier').value;
+            const period = document.getElementById('customer-period').value;
+            
+            if (!fileInput.files.length) {
+                alert('Please select a customer document first');
+                return;
+            }
+            
+            if (!supplier) {
+                alert('Please select a supplier');
+                return;
+            }
+            
+            if (!period) {
+                alert('Please select a period');
+                return;
+            }
+            
+            // Simulate parsing process
+            alert('Parsing customer document...');
+            
+            // Simulate parsing results
+            const tbody = document.querySelector('#customer-data-table tbody');
+            tbody.innerHTML = `
+                <tr>
+                    <td>INV-2023-001</td>
+                    <td>£10,000.00</td>
+                    <td>2023-01-15</td>
+                    <td>${document.getElementById('supplier').options[document.getElementById('supplier').selectedIndex].text}</td>
+                </tr>
+                <tr>
+                    <td>INV-2023-002</td>
+                    <td>£15,000.00</td>
+                    <td>2023-01-20</td>
+                    <td>${document.getElementById('supplier').options[document.getElementById('supplier').selectedIndex].text}</td>
+                </tr>
+            `;
+            
+            alert('Customer document parsing completed');
+        }
+        
+        // Parse SAP document
+        function parseSapDoc() {
+            const fileInput = document.getElementById('sap-file');
+            const period = document.getElementById('sap-period').value;
+            
+            if (!fileInput.files.length) {
+                alert('Please select an SAP document first');
+                return;
+            }
+            
+            if (!period) {
+                alert('Please select a period');
+                return;
+            }
+            
+            // Simulate parsing process
+            alert('Parsing SAP document...');
+            
+            // Simulate parsing results
+            const tbody = document.querySelector('#sap-data-table tbody');
+            tbody.innerHTML = `
+                <tr>
+                    <td>SAP-2023-001</td>
+                    <td>£10,000.00</td>
+                </tr>
+                <tr>
+                    <td>SAP-2023-002</td>
+                    <td>£15,000.00</td>
+                </tr>
+            `;
+            
+            alert('SAP document parsing completed');
+        }
+        
+        // Start data processing
+        function startProcessing() {
+            let progress = 0;
+            const progressBar = document.getElementById('progress-fill');
+            const interval = setInterval(() => {
+                progress += 10;
+                progressBar.style.width = progress + '%';
+                progressBar.textContent = progress + '%';
+                
+                // Update step status
+                if (progress >= 33) {
+                    document.getElementById('step1-status').textContent = 'Completed';
+                }
+                if (progress >= 66) {
+                    document.getElementById('step2-status').textContent = 'Completed';
+                }
+                if (progress >= 100) {
+                    document.getElementById('step3-status').textContent = 'Completed';
+                    clearInterval(interval);
+                    alert('Data processing completed');
+                }
+            }, 300);
+        }
+        
+        // Filter results
+        function filterResults() {
+            const supplier = document.getElementById('result-supplier').value;
+            const period = document.getElementById('result-period').value;
+            
+            // Simulate filtering results
+            const tbody = document.querySelector('#aggregation-results tbody');
+            tbody.innerHTML = `
+                <tr>
+                    <td>${supplier ? document.getElementById('result-supplier').options[document.getElementById('result-supplier').selectedIndex].text : 'Supplier 1'}</td>
+                    <td>${period || '2023-01'}</td>
+                    <td>15</td>
+                    <td>12</td>
+                    <td>80%</td>
+                </tr>
+            `;
+        }
+        
+        // Add mapping row
+        function addMappingRow() {
+            const tbody = document.getElementById('mapping-rows');
+            const newRow = document.createElement('tr');
+            newRow.innerHTML = `
+                <td><input type="text" placeholder="Enter SAP ID"></td>
+                <td><input type="text" placeholder="Enter Customer Document ID"></td>
+                <td>
+                    <button class="add-row-btn" onclick="addMappingRow()">+</button>
+                    <button class="remove-row-btn" onclick="removeMappingRow(this)">-</button>
+                </td>
+            `;
+            tbody.appendChild(newRow);
+        }
+        
+        // Remove mapping row
+        function removeMappingRow(button) {
+            const row = button.closest('tr');
+            if (row) {
+                row.remove();
+            }
+        }
+        
+        // Save mappings
+        function saveMappings() {
+            alert('Mapping relationship saved');
+        }
+        
+        // Clear mappings
+        function clearMappings() {
+            if (confirm('Are you sure you want to clear all mapping relationships?')) {
+                const tbody = document.getElementById('mapping-rows');
+                tbody.innerHTML = `
+                    <tr>
+                        <td><input type="text" placeholder="Enter SAP ID"></td>
+                        <td><input type="text" placeholder="Enter Customer Document ID"></td>
+                        <td>
+                            <button class="add-row-btn" onclick="addMappingRow()">+</button>
+                            <button class="remove-row-btn" onclick="removeMappingRow(this)">-</button>
+                        </td>
+                    </tr>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>
